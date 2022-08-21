@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## About Me
-
-Hi, I'm Daniel Johnson, a fourth year Computer Engineering student at The University of British Columbia. 
+I'm Daniel Johnson, a fourth year Computer Engineering student at The University of British Columbia. 
 
 <!--
 **danielrjc/danielrjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

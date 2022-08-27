@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Daniel 👋
 
 I'm Daniel Johnson, a fourth year Computer Engineering student at The University of British Columbia. 
 
